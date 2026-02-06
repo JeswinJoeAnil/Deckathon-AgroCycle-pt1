@@ -1,3 +1,4 @@
+**AgroCycle is a technology-driven platform that empowers farmers to sell agricultural waste directly to industries instead of burning it, generating additional income for farmers, reducing air pollution and health hazards, ensuring reliable biomass supply for companies, and enabling a scalable, sustainable circular economy that benefits agriculture, industry, and the environment.**
 
 **Prerequisites:**  Node.js
 
